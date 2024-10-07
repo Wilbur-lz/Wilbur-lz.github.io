@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.wilbur-lz.cn/manifest.json</loc>
+    <loc>https://github.wilbur-lz.cn/tags/index.html</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://blog.wilbur-lz.cn/link/index.html</loc>
+    <loc>https://github.wilbur-lz.cn/manifest.json</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://blog.wilbur-lz.cn/tags/index.html</loc>
+    <loc>https://github.wilbur-lz.cn/link/index.html</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://blog.wilbur-lz.cn/posts/f7ede91d.html</loc>
+    <loc>https://github.wilbur-lz.cn/posts/f7ede91d.html</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://blog.wilbur-lz.cn/categories/index.html</loc>
+    <loc>https://github.wilbur-lz.cn/categories/index.html</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://blog.wilbur-lz.cn/</loc>
+    <loc>https://github.wilbur-lz.cn/</loc>
     <lastmod>2024-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
