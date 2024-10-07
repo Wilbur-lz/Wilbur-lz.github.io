@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://github.wilbur-lz.cn/link/index.html</loc>
+    <loc>https://github.wilbur-lz.cn/tags/index.html</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://github.wilbur-lz.cn/tags/index.html</loc>
+    <loc>https://github.wilbur-lz.cn/link/index.html</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -55,6 +55,20 @@
   </url>
 
   
+  <url>
+    <loc>https://github.wilbur-lz.cn/tags/JavaSE/</loc>
+    <lastmod>2024-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://github.wilbur-lz.cn/categories/%E7%BC%96%E7%A8%8BCoding/</loc>
+    <lastmod>2024-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
