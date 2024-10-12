@@ -4,7 +4,7 @@
   <url>
     <loc>https://github.wilbur-lz.cn/manifest.json</loc>
     
-    <lastmod>2024-10-11</lastmod>
+    <lastmod>2024-10-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://github.wilbur-lz.cn/link/index.html</loc>
     
-    <lastmod>2024-10-11</lastmod>
+    <lastmod>2024-10-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,25 +22,16 @@
   <url>
     <loc>https://github.wilbur-lz.cn/tags/index.html</loc>
     
-    <lastmod>2024-10-11</lastmod>
+    <lastmod>2024-10-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://github.wilbur-lz.cn/posts/f7ede91d.html</loc>
+    <loc>https://github.wilbur-lz.cn/posts/0.html</loc>
     
-    <lastmod>2024-10-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.wilbur-lz.cn/posts/6c92115f.html</loc>
-    
-    <lastmod>2024-10-11</lastmod>
+    <lastmod>2024-10-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +40,25 @@
   <url>
     <loc>https://github.wilbur-lz.cn/categories/index.html</loc>
     
-    <lastmod>2024-10-11</lastmod>
+    <lastmod>2024-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.wilbur-lz.cn/posts/f7ede91d.html</loc>
+    
+    <lastmod>2024-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.wilbur-lz.cn/posts/6c92115f.html</loc>
+    
+    <lastmod>2024-10-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://github.wilbur-lz.cn/</loc>
-    <lastmod>2024-10-11</lastmod>
+    <lastmod>2024-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,14 +75,14 @@
   
   <url>
     <loc>https://github.wilbur-lz.cn/tags/JavaSE/</loc>
-    <lastmod>2024-10-11</lastmod>
+    <lastmod>2024-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.wilbur-lz.cn/tags/Spring%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-10-11</lastmod>
+    <lastmod>2024-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -82,7 +91,7 @@
   
   <url>
     <loc>https://github.wilbur-lz.cn/categories/%E7%BC%96%E7%A8%8BCoding/</loc>
-    <lastmod>2024-10-11</lastmod>
+    <lastmod>2024-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
