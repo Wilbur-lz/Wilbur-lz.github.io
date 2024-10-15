@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://github.wilbur-lz.cn/link/index.html</loc>
-    
-    <lastmod>2024-10-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://github.wilbur-lz.cn/tags/index.html</loc>
     
     <lastmod>2024-10-15</lastmod>
@@ -29,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://github.wilbur-lz.cn/posts/f7ede91d.html</loc>
+    <loc>https://github.wilbur-lz.cn/link/index.html</loc>
     
     <lastmod>2024-10-15</lastmod>
     
@@ -56,7 +47,25 @@
   </url>
   
   <url>
+    <loc>https://github.wilbur-lz.cn/posts/ceda7561.html</loc>
+    
+    <lastmod>2024-10-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://github.wilbur-lz.cn/categories/index.html</loc>
+    
+    <lastmod>2024-10-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.wilbur-lz.cn/posts/f7ede91d.html</loc>
     
     <lastmod>2024-10-15</lastmod>
     
